@@ -1,4 +1,4 @@
 # 1st-repo
 this is my first repository.
 <br>
-author - sneha goyal
+author - sneha goyal(sgt)
